@@ -1,0 +1,22 @@
+{
+  "logic_version": "5",
+  "xpathMap": {
+    "Họ tên*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[2]/div/div/div/input",
+    "Số CCCD/Hộ chiếu*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[3]/div/div/div/input",
+    "Ngày sinh*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[4]/div/div/div/input",
+    "Giới tính*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[5]/div/div/div/input",
+    "Quốc tịch*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[6]/div/div/div/input",
+    "Ngày cấp*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[7]/div/div/div/input",
+    "Nơi cấp*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[8]/div/div/div/input",
+    "Địa chỉ cơ quan, tổ chức": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[9]/div/div/div/input",
+    "Tỉnh/Thành phố*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[10]/div/div/div/div/div/input",
+    "Phường/Xã/Thị trấn*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[11]/div/div/div/div/div/input",
+    "Thời gian bắt đầu lưu trú*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[2]/div/div/div/input",
+    "Thời gian kết thúc lưu trú*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[3]/div/div/div/input",
+    "Số buồng phòng lưu trú*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[4]/div/div/div/input",
+    "Thời gian thông báo lưu trú*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[5]/div/div/div/input",
+    "Người thông báo lưu trú*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[6]/div/div/div/input",
+    "Cán bộ thông báo lưu trú*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[7]/div/div/div/input",
+    "Ghi chú": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[2]/div[8]/div/div/div/input"
+  }
+}
