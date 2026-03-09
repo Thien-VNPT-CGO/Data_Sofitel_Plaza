@@ -1,5 +1,5 @@
 {
-  "logic_version": "3.6.6",
+  "logic_version": "3.6.8",
   "xpathMap": {
     "Họ tên*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[2]/div/div/div/input",
     "Số CCCD/Hộ chiếu*": "/html/body/div[3]/div[3]/div/form/div[1]/div/div/div/div/div[1]/div/div[3]/div/div/div/input",
